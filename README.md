@@ -18,7 +18,7 @@ This project is designed to collect and update local business data for Barcelona
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/yourusername/local-business-data-collector.git
+   git clone https://github.com/franbaldi/local-business-data-collector.git
    cd local-business-data-collector
    ```
 
